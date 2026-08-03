@@ -1,4 +1,4 @@
-## Hellooo! I'm Marceliott :)
+## Hellooo! I'm Marceliott :star2:
  
 **Cybersecurity and AI/ML · New York, NY**
  
@@ -8,7 +8,7 @@ Currently, I'm the founder of **AssistU AI**, where I design automation workflow
  
 ## Projects
  
-**UNDER CONSTRUCTION**
+**~UNDER CONSTRUCTION~**
  
 **SpendLens**
 Pulls structured expense data out of receipt and invoice images using a multimodal model. The part worth looking at is the self-validation stage — the model re-checks its own JSON against the source image and catches arithmetic errors, missed line items, and bad category calls before anything reaches a report.
@@ -25,5 +25,7 @@ Pulls structured expense data out of receipt and invoice images using a multimod
 Varsity captain of a D1 collegiate Rainbow Six Siege team, which has taught me more about coordinating people under pressure than any class has. Active member of the SJU ACM Cybersecurity Student Chapter. Bilingual in English and Spanish. When I'm not grinding away, I'm at the gym, hooping, or traveling the world!
  
 ---
- 
-**LinkedIn** [marceliottencarnacion](https://www.linkedin.com/in/marceliottencarnacion) &nbsp;·&nbsp; **Email** `marceliottencarnacion@gmail.com`
+
+Feel free to reach out and connect! :)
+**LinkedIn** [here](https://www.linkedin.com/in/marceliottencarnacion)
+**Email** [here](marceliottencarnacion@gmail.com)
