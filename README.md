@@ -8,25 +8,25 @@ Currently, I'm the founder of **AssistU AI**, where I design automation workflow
  
 ## Projects
  
-**~UNDER CONSTRUCTION~**
+**~- UNDER CONSTRUCTION -~**
  
 **SpendLens**
-Pulls structured expense data out of receipt and invoice images using a multimodal model. The part worth looking at is the self-validation stage — the model re-checks its own JSON against the source image and catches arithmetic errors, missed line items, and bad category calls before anything reaches a report.
+Pulls structured expense data out of receipt and invoice images using a multimodal model. The model rechecks its own output against the source image and catches arithmetic errors, missed line items, and bad category calls before anything reaches a report.
  
 ## Toolkit
  
 **Languages** &nbsp;Python · Java · C++ · C#
 
-**Security** &nbsp;Network security · TCP/IP · Wireshark · Nmap · Linux systems programming · Digital Forensics
+**Security** &nbsp;Network security · TCP/IP · Wireshark · Nmap · Burpsuite · Metasploit · Digital Forensics
 
-**ML** &nbsp;SciKit-Learn · PyTorch · Pandas · NumPy · Matplotlib
+**ML** &nbsp;SciKit-Learn · PyTorch · Pandas · NumPy · Matplotlib · Keras · TensorFlow · LangChain
 
 **Systems** &nbsp;Linux · Bash · PowerShell · Git
 
  
 ## Beyond the terminal
  
-Varsity captain of a D1 collegiate Rainbow Six Siege team, which has taught me more about coordinating people under pressure than any class has. Active member of the SJU ACM Cybersecurity Student Chapter. Bilingual in English and Spanish. When I'm not grinding away, I'm at the gym, hooping, or traveling the world!
+Varsity captain of a D1 collegiate Rainbow Six Siege team, which has taught me more about coordinating people under pressure than any class has. Active member of the SJU ACM Cybersecurity Student Chapter. Bilingual in English and Spanish. When I'm not grinding away, I'm at the gym, listening to good music, or traveling the world!
  
 ---
 
@@ -34,4 +34,4 @@ Feel free to reach out and connect! :)
 
 **LinkedIn** [here](https://www.linkedin.com/in/marceliottencarnacion)
 
-**Email** [here](marceliottencarnacion@gmail.com)
+**Email** 'marceliottencarnacion@gmail.com'
