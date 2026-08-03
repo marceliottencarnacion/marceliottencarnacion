@@ -16,9 +16,13 @@ Pulls structured expense data out of receipt and invoice images using a multimod
 ## Toolkit
  
 **Languages** &nbsp;Python · Java · C++ · C#
+
 **Security** &nbsp;Network security · TCP/IP · Wireshark · Nmap · Linux systems programming · Digital Forensics
+
 **ML** &nbsp;SciKit-Learn · PyTorch · Pandas · NumPy · Matplotlib
+
 **Systems** &nbsp;Linux · Bash · PowerShell · Git
+
  
 ## Beyond the terminal
  
@@ -27,5 +31,7 @@ Varsity captain of a D1 collegiate Rainbow Six Siege team, which has taught me m
 ---
 
 Feel free to reach out and connect! :)
+
 **LinkedIn** [here](https://www.linkedin.com/in/marceliottencarnacion)
+
 **Email** [here](marceliottencarnacion@gmail.com)
