@@ -2,7 +2,7 @@
  
 **Cybersecurity and AI/ML · New York, NY**
  
-Currently, I'm the founder of **AssistU AI**, where I design automation workflows for business operations and customer communication (scheduling overhead down roughly 80% for the accounts running it). I'm also an **AI/ML Fellow at Cornell University – Break Through Tech**, building models on real datasets with industry mentorship, and finishing a **BS in Computer Science, Cyber Security Systems** at St. John's University.
+Currently, I'm the founder of **AssistU AI**, where I design automation workflows for business operations and customer communication. I'm also an **AI/ML Fellow at Cornell University – Break Through Tech**, building models on real datasets with industry mentorship, and finishing a **BS in Computer Science, Cyber Security Systems** at St. John's University.
  
 ---
  
